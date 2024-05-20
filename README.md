@@ -1,9 +1,6 @@
 # Chronic-Kidney-Disease-Prediction
 A Chronic Kidney Disease prediction machine learning model
 
-<p align="center">
-  <img src="imgs\banner.jpg" width="1000" >
-</p>
 
 # Chronic Kidney Disease Prediction
 This is a machine learning project that is trained on a collected data of people who are infected by these disease and some other people.
